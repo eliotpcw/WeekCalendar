@@ -10,6 +10,7 @@
         <attr name="weekBackgroundColor" format="color"/>
         <attr name="selectedBgColor" format="color"/>
         <attr name="todaysDateBgColor" format="color"/>
+        <attr name="todaysDateTextColor" format="color"/>
         <attr name="dayNameLength">
             <enum name="singleLetter" value="0"/>
             <enum name="threeLetters" value="1"/>
